@@ -8,9 +8,8 @@ The model handles both **categorical** and **numerical features** using `ColumnT
 ## 🔹 Live Demo
 
 You can try the interactive web app here:  
-[**Customer Churn Prediction App (Streamlit)**]([https://your-streamlit-link.com](https://ecommerce-customer-churn-dataset-apm9nszc5ezdmbirg79qx4.streamlit.app/))  
+[**Customer Churn Prediction App (Streamlit)**](https://ecommerce-customer-churn-dataset-apm9nszc5ezdmbirg79qx4.streamlit.app/)) 
 
-*(Replace the link with your deployed Streamlit URL)*
 
 ---
 
